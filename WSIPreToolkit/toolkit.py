@@ -11,7 +11,7 @@ ImageFile.MAX_IMAGE_PIXELS = None
 Image.MAX_IMAGE_PIXELS = None
 
 
-class TissueImageToolkit:
+class WSIPreToolkit:
     @staticmethod
     def get_array_disk_size(array):
         """
